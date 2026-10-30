@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-tracepass-eu is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://tracepass.eu/
+TracePass provides an AI‑powered Digital Product Passport (DPP) platform for EU manufacturers. It enables uploading product data to generate GS1 Digital Link passports for batteries, textiles, electronics and other categories, complying with upcoming EU regulations such as Regulation (EU) 2023/1542. The service offers AI‑driven data extraction, compliance guidance, and a user‑friendly portal for managing product passports across lifecycles.
+
+**Areas:** Company · AI · Digital-Product-Passport · EU-Regulation · Sustainability
+
+## tracepass-eu on APIs.io
+
+Everything profiled for tracepass-eu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tracepass-eu/](https://apis.io/providers/tracepass-eu/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [TracePass API](https://apis.io/apis/tracepass-eu/tracepass-api/) — Digital Product Passport REST API for the TracePass platform.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Tracepass Eu Openapi Overlay](https://apis.io/overlays/tracepass-eu/tracepass-eu-openapi-overlay/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tracepass Eu Domain Security](https://apis.io/security/tracepass-eu/tracepass-eu-domain-security/)
+- [Tracepass Eu Trust Center](https://apis.io/security/tracepass-eu/tracepass-eu-trust-center/)
+- [Tracepass Eu Vulnerability Disclosure](https://apis.io/security/tracepass-eu/tracepass-eu-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tracepass Eu Plans Pricing](https://apis.io/plans/tracepass-eu/tracepass-eu-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tracepass.eu/)
+- [Documentation](https://www.tracepass.eu/docs)
+- [Getting started](https://www.tracepass.eu/docs/quickstart)
+- [Pricing](https://www.tracepass.eu/pricing)
+- [Changelog](https://www.tracepass.eu/regulatory/changelog)
+- [Compliance](https://www.tracepass.eu/trust)
+- [Terms of service](https://www.tracepass.eu/terms)
+- [Privacy policy](https://www.tracepass.eu/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.0** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 88.9 |
+
+**Agent readiness 27.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tracepass-eu/](https://apis.io/providers/tracepass-eu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for tracepass-eu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tracepass-eu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
